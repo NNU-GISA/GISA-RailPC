@@ -20,5 +20,19 @@ Based on that, we identify several key challenges towards railway-scale point cl
 ## Demo
 
 ## Download
-If you would like to apply for this dataset, please complete the information in the following format and email it to 211345003@njnu.edu.cn or 221302177@njnu.edu.cn: <br />
-Subject: Request for Rail3D dataset
+If you would like to apply for this dataset, please complete the information in the following format and email it to 211345003@njnu.edu.cn or 221302177@njnu.edu.cn. We'll get right back to you. <br />
+  
+	Subject: Request for Rail3D dataset 
+ 
+    ******** Basic information ********
+    · Name:
+    · Email Address:
+    · Affiliation/Unit:
+    · Contact Phone Number:
+    
+    ******* Research background *******
+    · Research area/direction:
+    · How do you plan to use the dataset? (e.g. academic research, business analysis, curriculum projects, etc.):
+    · Would you be willing to cite or refer to this dataset and its sources in your research results:
+    · Your suggestions for this dataset(Optional):
+ 
