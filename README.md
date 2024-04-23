@@ -1,11 +1,11 @@
-# Rail3D: A Large-Scale Mobile LiDAR Point Cloud Dataset for Semantic Segmentation of Railway Scenes
+# RailPC: A Large-Scale Railway Point Cloud Semantic Segmentation Dataset
 
-This is the official repository of the **Rail3D** dataset. For details, please refer to:
+This is the official repository of the **RailPC** dataset. For details, please refer to:
 
 ## Download
 If you would like to apply for this dataset, please complete the information in the following format and email it to 211345003@njnu.edu.cn or 221302177@njnu.edu.cn. We'll get right back to you. <br />
   
-	Subject: Request for Rail3D dataset 
+	Subject: Request for RailPC dataset 
  
     ******** Basic information ********
     · Name:
@@ -22,7 +22,7 @@ If you would like to apply for this dataset, please complete the information in 
 ## Updates
 * 2024/04/23: The dataset is available for download!
 * 2024/04/18: Initial release!
-* 2024/03/13: The Rail3D has been accepted by CAAI!
+* 2024/03/13: The RailPC has been accepted by CAAI!
 
 ## To do
 - [x] Mountain railway scene semantic segmentation dataset！
