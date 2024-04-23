@@ -34,7 +34,7 @@ If you would like to apply for this dataset, please complete the information in 
     · Your suggestions for this dataset(Optional):
 
 ## Updates
-* 2024/04/25: The dataset is available for download!
+* 2024/04/23: The dataset is available for download!
 * 2024/04/18: Initial release!
 * 2024/03/13: The Rail3D has been accepted by CAAI!
 
