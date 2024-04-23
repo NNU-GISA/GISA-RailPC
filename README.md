@@ -1,6 +1,6 @@
 # Rail3D: A Large-Scale Mobile LiDAR Point Cloud Dataset for Semantic Segmentation of Railway Scenes
 
-This is the official repository of the **Rail3D** dataset. Coming soon！
+This is the official repository of the **Rail3D** dataset. For details, please refer to:
 
 **Rail3D: A Large-Scale Mobile LiDAR Point Cloud Dataset for Semantic Segmentation of Railway Scenes** <br />
 Tengping Jiang, Lei Dai, Shiwei Li, Qinyu Zhang, Zequn Zhang, Fankun Zeng, Yangzi Cong, Yongjun Wang, Xin Jin, Peng An.<br />
