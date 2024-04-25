@@ -3,7 +3,6 @@
 This is the official repository of the **RailPC** dataset. For details, please refer to:
 
 ## Demo
-![img](https://github.com/NNU-GISA/GISA-RailPC/imgs/Railway.gif)
 
 
 ## Download
