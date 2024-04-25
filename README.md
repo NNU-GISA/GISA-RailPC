@@ -5,7 +5,7 @@ This is the official repository of the **RailPC** dataset. For details, please r
 ## Demo
 
 
-<p align="center"> https://github.com/NNU-GISA/GISA-RailPC/assets/40690061/63e2cb3a-9f51-4be9-995f-23cc0497dfd6 </p>
+https://github.com/NNU-GISA/GISA-RailPC/assets/40690061/63e2cb3a-9f51-4be9-995f-23cc0497dfd6
 
 
 
