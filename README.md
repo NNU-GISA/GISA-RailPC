@@ -2,12 +2,6 @@
 
 This is the official repository of the **RailPC** dataset. For details, please refer to:
 
-## Demo
-
-
-https://github.com/NNU-GISA/GISA-RailPC/assets/40690061/63e2cb3a-9f51-4be9-995f-23cc0497dfd6
-
-
 
 ## Download
 If you would like to apply for this dataset, please complete the information in the following format and email it to 211345003@njnu.edu.cn or 221302177@njnu.edu.cn. We'll get right back to you. <br />
