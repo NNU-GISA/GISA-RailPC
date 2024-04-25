@@ -3,7 +3,7 @@
 This is the official repository of the **RailPC** dataset. For details, please refer to:
 
 ## Demo
-<p align="center"> <img src="imgs/1.png" width="100%"> </p>
+
 ## Download
 If you would like to apply for this dataset, please complete the information in the following format and email it to 211345003@njnu.edu.cn or 221302177@njnu.edu.cn. We'll get right back to you. <br />
   
