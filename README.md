@@ -47,6 +47,46 @@ The proposed benchmark called the RailPC dataset, it comprises over 2 billion 3D
 The urban railway was captured a section of Nanjing, China, covering length of around 10 km. As for data of mountain railway environments, 
 the data were collected in the rural railway yard area of Chengdu. The mountain railway point cloud covers road length of approximately 15 km, which is located in the relative high altitude regions.
 
+<p align="center"> <img src="imgs/1.png" width="100%"> </p>
+<p align="center">Figure 1. Overview of the coverage area of RailPC dataset.</p> 
+
+### Data Collection
+
+The MLS system is equipped with a HiScan-C scanning sensor with 360° field of view, 
+structured light module, a real-time kinematic (RTK) global navigation satellite system (GNSS), 
+an embedded computer and a power supply system. The detection range of the installed laser sensor is 0.5 m – 119 m, 
+ensuring the accuracy of about 2 mm and generating 1,000,000 points per second. 
+The root mean square accuracy is about 0.04 m in a vertical direction, 0.02 m in the horizontal direction, 
+0.015◦ in the heading direction, and 0.008◦ in pitch and roll directions. 
+
+### Semantic Annotations
+
+<p align="center"> <img src="imgs/2.png" width="100%"> </p>
+<p align="center">Figure 2. Examples of our RailPC dataset. Different semantic classes are labeled by different colors.</p> 
+
+- **Rail track**
+- **Track bed** (sleeper and ballast)
+- **Ground**(impervious surfaces and rough terrain)
+- **Roadside**
+- **Catenary** (transmission and distribution lines)
+- **Pull wire**
+- **Guardrail** (fences and railway barriers)
+- **Vegetation** (trees and grass)
+- **Support** (bearing cable and positioning tube)
+- **Pole** (power line poles and light poles)
+- **Transmission tower**
+- **Stair**
+- **Tunnel**
+- **Building** (residential, high-rises, and warehouses)
+- **Concrete**
+- **Other** (remaining objects)
+- **Noisy points** (can be deleted)
+
+### Statistics
+<p align="center"> <img src="imgs/3.png" width="100%"> </p>
+<p align="center">Figure 3. The distribution of different semantic categories in the RailPC dataset.</p> 
+
+
 ## Updates
 * 2024/04/23: The dataset is available for download!
 * 2024/04/18: Initial release!
