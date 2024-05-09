@@ -103,4 +103,7 @@ The root mean square accuracy is about 0.04 m in a vertical direction, 0.02 m in
 2. [KPConv: Flexible and deformable convolution for point clouds](https://github.com/HuguesTHOMAS/KPConv)![GitHub stars](https://img.shields.io/github/stars/HuguesTHOMAS/KPConv.svg?style=flat&label=Star)
 3. [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://github.com/QingyongHu/RandLA-Net) ![GitHub stars](https://img.shields.io/github/stars/QingyongHu/RandLA-Net.svg?style=flat&label=Star)
 4. [SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point Clouds](https://github.com/QingyongHu/SQN) ![GitHub stars](https://img.shields.io/github/stars/QingyongHu/SQN.svg?style=flat&label=Star)
+5. [Tangent Convolutions for Dense Prediction in 3D](https://github.com/tatarchm/tangent_conv)![GitHub stars](https://img.shields.io/github/stars/tatarchm/tangent_conv.svg?style=flat&label=Star)
+6. [MS-RRFSegNet: Multi-Scale Regional Relation Feature Segmentation Network for Semantic Segmentation of Urban Scene Point Clouds](https://github.com/Megasister/MS_RRFSegNet)![GitHub stars](https://img.shields.io/github/stars/Megasister/MS_RRFSegNet.svg?style=flat&label=Star)
+7. [Supervoxel convolution for online 3D semantic segmentation](https://github.com/shishenghuang/SVNet_jittor)![GitHub stars](https://img.shields.io/github/stars/shishenghuang/SVNet_jittor.svg?style=flat&label=Star)
  
