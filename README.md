@@ -18,7 +18,7 @@ Based on our findings, we establish some critical challenges towards railway-sca
 
 
 ## Download
-If you would like to apply for this dataset, please complete the information in the following format and email it to 211345003@njnu.edu.cn or 221302177@njnu.edu.cn. We'll get right back to you. <br />
+If you would like to apply for this dataset, please complete the information in the following format and email it to 221302177@njnu.edu.cn or 211345003@njnu.edu.cn. We'll get right back to you. <br />
   
 	Subject: Request for RailPC dataset 
  
