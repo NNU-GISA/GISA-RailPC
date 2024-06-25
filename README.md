@@ -16,11 +16,6 @@ and the data acquisition process is completed in China by MLS systems. Through e
 we evaluate the performance of advanced scene understanding methods on the annotated dataset and present a synthetic analysis of semantic segmentation results. 
 Based on our findings, we establish some critical challenges towards railway-scale point cloud semantic segmentation.
 
-## Demo
-
-
-https://github.com/NNU-GISA/GISA-RailPC/assets/40690061/5b60a97f-2205-40ea-9d05-afb30e70efcc
-
 
 ## Download
 If you would like to apply for this dataset, please complete the information in the following format and email it to 211345003@njnu.edu.cn or 221302177@njnu.edu.cn. We'll get right back to you. <br />
@@ -47,8 +42,6 @@ The proposed benchmark called the RailPC dataset, it comprises over 2 billion 3D
 The urban railway was captured a section of Nanjing, China, covering length of around 10 km. As for data of mountain railway environments, 
 the data were collected in the rural railway yard area of Chengdu. The mountain railway point cloud covers road length of approximately 15 km, which is located in the relative high altitude regions.
 
-<p align="center"> <img src="imgs/1.png" width="100%"> </p>
-<p align="center">Figure 1. Overview of the coverage area of RailPC dataset.</p> 
 
 ### Data Collection
 
@@ -60,9 +53,6 @@ The root mean square accuracy is about 0.04 m in a vertical direction, 0.02 m in
 0.015◦ in the heading direction, and 0.008◦ in pitch and roll directions. 
 
 ### Semantic Annotations
-
-<p align="center"> <img src="imgs/2.png" width="100%"> </p>
-<p align="center">Figure 2. Examples of our RailPC dataset. Different semantic classes are labeled by different colors.</p> 
 
 - **Rail track**
 - **Track bed** (sleeper and ballast)
@@ -81,10 +71,6 @@ The root mean square accuracy is about 0.04 m in a vertical direction, 0.02 m in
 - **Concrete**
 - **Other** (remaining objects)
 - **Noisy points** (can be deleted)
-
-### Statistics
-<p align="center"> <img src="imgs/3.png" width="100%"> </p>
-<p align="center">Figure 3. The distribution of different semantic categories in the RailPC dataset.</p> 
 
 
 ## Updates
