@@ -16,9 +16,11 @@ and the data acquisition process is completed in China by MLS systems. Through e
 we evaluate the performance of advanced scene understanding methods on the annotated dataset and present a synthetic analysis of semantic segmentation results. 
 Based on our findings, we establish some critical challenges towards railway-scale point cloud semantic segmentation.
 
+***The railway point cloud (first part, approximately 7 kilometers) is currently subject to ownership disputes and confidentiality restrictions, and will no longer be publicly accessible. We are in the process of re-labeling the new railway point cloud and aim to complete this labeling by September. Following the completion of the paper's correction and re-labeling process, we will make this dataset publicly available again.***
+
 
 ## Download
-If you would like to apply for this dataset, please complete the information in the following format and email it to 221302177@njnu.edu.cn or 211345003@njnu.edu.cn. We'll get right back to you. <br />
+If you would like to apply for this dataset, please complete the information in the following format and email it to 221302177@njnu.edu.cn. We'll get right back to you. <br />
   
 	Subject: Request for RailPC dataset 
  
